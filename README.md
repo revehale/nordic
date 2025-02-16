@@ -10,7 +10,7 @@ pip3 install .
 
 Show help:
 ```bash
-nor --help
+nordic --help
 ```
 
 ## Basic Usage
