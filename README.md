@@ -5,7 +5,7 @@ A command-line tool for searching Norwegian words and their English translations
 ## Installation
 
 ```bash
-pip3 install -e .
+pip3 install .
 ```
 
 Show help:
