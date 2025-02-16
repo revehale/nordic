@@ -49,6 +49,14 @@ nordic %nasjonal
 ```
 Add `%` before your search term to search through all text, including definitions. This searches both headwords and their definitions.
 
+### Stdin
+
+```bash
+cat wordlist.txt | nordic 
+```
+
+You can feed nordic a word, or a list of words (on separate lines) to search and it will output exact match search results for each word in the standard input. 
+
 ## Special Search Modes
 
 ### English Word Search
